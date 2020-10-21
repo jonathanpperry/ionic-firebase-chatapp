@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "academychat-1d364": {
+      "hosting": {
+        "app": [
+          "academychat-1d364"
+        ]
+      }
+    }
+  }
+}
